@@ -42,6 +42,7 @@ Projects offering pay-per-call APIs via x402.
 | [AsterPay](https://asterpay.io) | EUR settlement layer for AI agent commerce. Market data, sentiment, DeFi analytics, whale tracking, and more. | 13 | EUR (SEPA Instant) | ✅ Live |
 | [CDAS](https://x402.org/ecosystem) | Crypto Data Analytics Service | - | USDC | ✅ Live |
 | [JMT x402 Agent Tools](https://jmt-x402-proxy.jmthomasofficial.workers.dev) | 25 paid endpoints: web search, AI analysis, crypto data, SEC filings, company intel, news briefing, sentiment, macro dashboard. USDC on Base. | 25 | USDC (Base) | ✅ Live |
+| [Atlas QR / Dev-utility API](https://editors-upon-wise-prayer.trycloudflare.com) | Pay-per-call QR & barcode generation, structured QR (WiFi/vCard/SEPA GiroCode/iCal event), UPC/EAN/GTIN check-digit validation, CSV⇄JSON & YAML⇄JSON conversion, and PDF document/table generation. No signup, no API key; machine-readable catalog at `/.well-known/x402`. | 14 | USDC (Base) | ✅ Live |
 
 > **Add your project!** Open a PR to add your x402-enabled service.
 
