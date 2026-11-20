@@ -105,3 +105,7 @@ To add your x402 project:
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is released into the public domain.
+
+### Agent Services
+
+- **[Imagio Labs](https://relay.imagiolabs.com)** — 139 pay-per-call x402 services: quantum/GPU circuits, market & SEC data, web search, security primitives, agent infra. USDC on Base, native MCP, verified on x402-trust.
